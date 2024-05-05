@@ -1,0 +1,10 @@
+.changing-text {
+    font-family: 'Space Mono', monospace;
+    font-size: clamp(3rem, 10vw, 10rem);
+    color: white;
+}
+
+/* h1:hover {
+    background-color: white;
+    color: black;
+} */
